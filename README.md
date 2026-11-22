@@ -2,6 +2,8 @@
 
 Turn timed audio events into a mix cue sheet with competing sounds and peak voice counts.
 
+**[Open the live demo](https://oguzhanozfe.github.io/sound-cue-sheet/)** · [Browser features and setup](demo/DEMO.md)
+
 ![Sound Cue Sheet showing the included example in the browser](docs/preview.png)
 
 [Deploy to Render](https://render.com/deploy?repo=https://github.com/oguzhanozfe/sound-cue-sheet) · [Example input](example.json) · [Computed report](docs/example-report.json) · [Model settings](#connect-a-model)

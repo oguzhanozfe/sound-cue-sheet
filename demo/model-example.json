@@ -1,0 +1,15 @@
+{
+  "model": "gemma-4-e4b-it",
+  "text": "Row 5 · Given the 'Mix note' on row 5, should I prioritize checking the balance between Alarm burst and Radio warning?",
+  "row": 5,
+  "record": {
+    "Cue": "Alarm burst",
+    "Start (s)": 4.2,
+    "End (s)": 5.3,
+    "Bus": "SFX",
+    "Priority": 5,
+    "Mix note": "Balance with Radio warning"
+  },
+  "source_sha256": "b515de89da0da5794ed38ccc9b5066d14d812beb5d3e027078eb04c07ca1b2fd",
+  "report_sha256": "d01fd2ba56e25a95f64cefcf443d0521c3f84f1cf1fe062ddfa5f89e6e462beb"
+}
