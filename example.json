@@ -1,0 +1,46 @@
+{
+  "cues": [
+    {
+      "id": "Room tone",
+      "bus": "Ambience",
+      "start": 0,
+      "duration": 8,
+      "priority": 1
+    },
+    {
+      "id": "Drawer latch",
+      "bus": "Foley",
+      "start": 1.8,
+      "duration": 0.45,
+      "priority": 3
+    },
+    {
+      "id": "Key pickup",
+      "bus": "UI",
+      "start": 2,
+      "duration": 0.72,
+      "priority": 4
+    },
+    {
+      "id": "Radio warning",
+      "bus": "Dialogue",
+      "start": 3.1,
+      "duration": 2.8,
+      "priority": 5
+    },
+    {
+      "id": "Alarm burst",
+      "bus": "SFX",
+      "start": 4.2,
+      "duration": 1.1,
+      "priority": 5
+    },
+    {
+      "id": "Door swing",
+      "bus": "Foley",
+      "start": 6.1,
+      "duration": 1.6,
+      "priority": 3
+    }
+  ]
+}

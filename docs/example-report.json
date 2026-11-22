@@ -1,0 +1,59 @@
+{
+  "summary": "6 cues produce 7 overlapping pairs, with up to 3 active at once.",
+  "metrics": {
+    "Cues": 6,
+    "Peak voices": 3,
+    "Overlap pairs": 7,
+    "Equal-priority pairs": 1
+  },
+  "rows": [
+    {
+      "Cue": "Room tone",
+      "Start (s)": 0,
+      "End (s)": 8.0,
+      "Bus": "Ambience",
+      "Priority": 1,
+      "Mix note": "Check space for Alarm burst, Door swing, Drawer latch, Key pickup, Radio warning"
+    },
+    {
+      "Cue": "Drawer latch",
+      "Start (s)": 1.8,
+      "End (s)": 2.25,
+      "Bus": "Foley",
+      "Priority": 3,
+      "Mix note": "Check space for Key pickup"
+    },
+    {
+      "Cue": "Key pickup",
+      "Start (s)": 2,
+      "End (s)": 2.72,
+      "Bus": "UI",
+      "Priority": 4,
+      "Mix note": "Lead over lower cues"
+    },
+    {
+      "Cue": "Radio warning",
+      "Start (s)": 3.1,
+      "End (s)": 5.9,
+      "Bus": "Dialogue",
+      "Priority": 5,
+      "Mix note": "Balance with Alarm burst"
+    },
+    {
+      "Cue": "Alarm burst",
+      "Start (s)": 4.2,
+      "End (s)": 5.3,
+      "Bus": "SFX",
+      "Priority": 5,
+      "Mix note": "Balance with Radio warning"
+    },
+    {
+      "Cue": "Door swing",
+      "Start (s)": 6.1,
+      "End (s)": 7.7,
+      "Bus": "Foley",
+      "Priority": 3,
+      "Mix note": "Lead over lower cues"
+    }
+  ]
+}
